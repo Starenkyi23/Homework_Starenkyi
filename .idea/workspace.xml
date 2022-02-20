@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="131d2b4d-81d7-461a-a1ce-e60d46af0ac9" name="Changes" comment="Task 3 Change">
-      <change afterPath="$PROJECT_DIR$/hm4.py" afterDir="false" />
+    <list default="true" id="131d2b4d-81d7-461a-a1ce-e60d46af0ac9" name="Changes" comment="hm">
+      <change afterPath="$PROJECT_DIR$/hm5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm3.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple/19_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemple/19_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm4.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <recent name="C:\Users\38098\Homework_Starenkyi\exemple" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hm4">
+  <component name="RunManager" selected="Python.hm5">
     <configuration name="19_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework_Starenkyi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,27 +60,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\38098\Homework_Starenkyi\exemple\19_02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hm1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Homework_Starenkyi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,6 +102,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework_Starenkyi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hm5" />
+        <item itemvalue="Python.19_02" />
         <item itemvalue="Python.hm4" />
         <item itemvalue="Python.hm3" />
-        <item itemvalue="Python.19_02" />
         <item itemvalue="Python.ma3" />
-        <item itemvalue="Python.hm1" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +255,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645387792736</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Task 3 Cha">
+      <created>1645389941778</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645389941778</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hm">
+      <created>1645390120879</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1645390120879</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,11 +286,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hm1 add" />
     <MESSAGE value="hm1 addd" />
-    <MESSAGE value="hm" />
     <MESSAGE value="homework" />
     <MESSAGE value="hm1" />
     <MESSAGE value="hmq" />
     <MESSAGE value="Task 3 Change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 Change" />
+    <MESSAGE value="hm" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm" />
   </component>
 </project>

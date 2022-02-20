@@ -34,4 +34,3 @@ while r.isdigit():
         break
 else:
     print('Введите число')
-#
