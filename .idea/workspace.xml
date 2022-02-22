@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="131d2b4d-81d7-461a-a1ce-e60d46af0ac9" name="Changes" comment="hm">
-      <change afterPath="$PROJECT_DIR$/hm6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemple/19_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemple/19_02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
       <recent name="C:\Users\38098\Homework_Starenkyi\exemple" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hm6">
+  <component name="RunManager" selected="Python.19_02">
     <configuration name="19_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework_Starenkyi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,9 +173,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.19_02" />
         <item itemvalue="Python.hm6" />
         <item itemvalue="Python.hm5" />
-        <item itemvalue="Python.19_02" />
         <item itemvalue="Python.hm4" />
         <item itemvalue="Python.hm3" />
       </list>
@@ -281,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645467999008</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="hm">
+      <created>1645474867756</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1645474867756</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
